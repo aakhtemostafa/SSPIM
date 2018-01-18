@@ -1,7 +1,6 @@
+<img src="Image/SSPIM.png" width="400">
 # Hello world
 
-![](Image/DTUqe8qXUAAJBFy.jpg-large%202.jpg)
-<img src="Image/DTUqe8qXUAAJBFy.jpg-large%202.jpg">
 
 ---
 
