@@ -1,4 +1,3 @@
-|license_shield| |python_shield| |conda_shield| |travis_shield| |docs_shield| |doi_shield|
+# Hello world
 
-.. |doi_shield| image:: https://zenodo.org/badge/96235902.svg
-   :target: https://zenodo.org/badge/latestdoi/96235902
+![](Image/DTUqe8qXUAAJBFy.jpg-large 2.jpg)
