@@ -1,3 +1,3 @@
 # Hello world
 
-![] (Image/DTUqe8qXUAAJBFy.jpg-large 2.jpg)
+![](Image/DTUqe8qXUAAJBFy.jpg-large%202.jpg)
