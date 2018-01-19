@@ -9,7 +9,7 @@ SSPIM represents a toolbox to produce static, spherical Gaussian, Bessel and Air
 
 # 2. Capabilitis of SPPIM
 
-The SSPIM toolbox has robust capabilities to generate different type of SLM patterns for a wide range optical beams such as:
+The SSPIM toolbox has capabilities to generate different type of SLM patterns for a wide range optical beams using differnt methods.
 
 ∙ Static Gaussian beam
 
@@ -18,10 +18,6 @@ The SSPIM toolbox has robust capabilities to generate different type of SLM patt
 ∙ 2D Airy beam
 
 ∙ Bessel beam
-
-∙ Damman gating 
-
-∙ Optimal grating
 
 ∙ Incoherent Gaussian beams
 
@@ -33,11 +29,16 @@ The SSPIM toolbox has robust capabilities to generate different type of SLM patt
 
 ∙ Hexagonal lattice beam
 
-*SLM pattern Generating for lattice beam is depended to the position of the SLM in the optical setup than to illumination objective lens. 
+∙ Tiling method for all type of the beams.
+
+*SLM pattern Generating for lattice beam is depended to the position of the SLM in the optical setup than to illumination objective lens.
+
+---
+∙ Damman gating 
+
+∙ Optimal grating
 
 ∙ Amplitude mask (ellipse, annular, Gaussian, rectangular )
-
-∙ Tiling method for all type of the beams.
 
 ∙ Far field intensity prediction as a feedback.
 
@@ -46,6 +47,7 @@ The SSPIM toolbox has robust capabilities to generate different type of SLM patt
 ∙ Binary value SLM Pattern
 
 ∙ SSPIM is able work standalone or with Matlab environment.
+
 
 
 
