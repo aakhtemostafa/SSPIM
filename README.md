@@ -11,15 +11,15 @@ SSPIM represents a toolbox to produce static, spherical Gaussian, Bessel and Air
 
 The SSPIM toolbox has robust capabilities to generate different type of SLM patterns for a wide range optical beams such as:
 
-● ∙ Static Gaussian beam
+✓ Static Gaussian beam
 
-● 1D Airy beam
+✓ 1D Airy beam
 
-● 2D Airy beam
+✓ 2D Airy beam
 
-● Bessel beam
+✓ Bessel beam
 
-● Damman gating 
+✓ Damman gating 
 
 ● Optimal grating
 
