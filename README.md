@@ -31,7 +31,7 @@ The SSPIM toolbox has capabilities to generate different type of SLM patterns fo
 
 ∙ Tiling method for all type of the beams.
 
-*SLM pattern Generating for lattice beam is depended to the position of the SLM in the optical setup than to illumination objective lens.
+*SLM pattern generating for lattice beam is depended to the position of the SLM in the optical setup than to illumination objective lens.
 
 ---
 ∙ Damman gating 
