@@ -16,9 +16,10 @@ SPPIM can be used with MATLAB or standalone. The standalone application toolbox 
 ☞ Source codes for Mac [⏬](https://www.google.com) 
 
 ☞ Stand alone toolbox for Mac [⏬](https://www.google.com) 
+---
+☞ Usermanual [⏬](https://www.google.com) 
 
 
 # Installation
-# Requirements
-# Usermanual
+# Requirements 
 # Gallary
