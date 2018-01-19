@@ -17,7 +17,7 @@ SPPIM can be used with MATLAB or standalone. The standalone application toolbox 
 
 ☞ [Stand alone toolbox for Mac <img src="Image/1mac.png" width="25">](https://www.google.com) 
 
-☞ [Usermanual](https://github.com/aakhtemostafa/SSPIM/raw/master/usermanual/SSPIM_User_manual.pdf)  
+☞ [Usermanual <img src="Image/3User_Manual_icon.png" width="25">](https://github.com/aakhtemostafa/SSPIM/raw/master/usermanual/SSPIM_User_manual.pdf)  
 
 
 # Installation
