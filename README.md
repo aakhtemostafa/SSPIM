@@ -9,15 +9,15 @@ Here, we present Structured SPIM (SSPIM), which provides an open-source, user-fr
 # Download
 SPPIM can be used with MATLAB or standalone. The standalone application toolbox is available for Windows and Mac.
 
-📌[Source codes for Windows <img src="Image/2Windows_logo.png" width="25">](https://www.google.com) 
+📎 [Source codes for Windows <img src="Image/2Windows_logo.png" width="25">](https://www.google.com) 
 
-📌[Stand alone toolbox for Windows <img src="Image/2Windows_logo.png" width="25">](https://www.google.com) 
+📎 [Stand alone toolbox for Windows <img src="Image/2Windows_logo.png" width="25">](https://www.google.com) 
 
-📌[Source codes for Mac <img src="Image/1mac.png" width="25">](https://www.google.com) 
+📎 [Source codes for Mac <img src="Image/1mac.png" width="25">](https://www.google.com) 
 
-📌[Stand alone toolbox for Mac <img src="Image/1mac.png" width="25">](https://www.google.com) 
+📎 [Stand alone toolbox for Mac <img src="Image/1mac.png" width="25">](https://www.google.com) 
 
-📌[Usermanual <img src="Image/3User_Manual_icon.png" width="25">](https://github.com/aakhtemostafa/SSPIM/raw/master/usermanual/SSPIM_User_manual.pdf)  
+📎 [Usermanual <img src="Image/3User_Manual_icon.png" width="25">](https://github.com/aakhtemostafa/SSPIM/raw/master/usermanual/SSPIM_User_manual.pdf)  
 
 
 # Installation
