@@ -6,7 +6,9 @@ Here, we present Structured SPIM (SSPIM), which provides an open-source, user-fr
 
 # Requirements
 
----
+
 # Download
+
 # Installation
+
 # Usermanual
