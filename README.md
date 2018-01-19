@@ -33,7 +33,7 @@ The SSPIM toolbox has robust capabilities to generate different type of SLM patt
 
 ∙ Hexagonal lattice beam
 
-* Generating SLM pattern for lattice beam is depended to the position of the SLM in the optical setup than to illumination objective lens. 
+*SLM pattern Generating for lattice beam is depended to the position of the SLM in the optical setup than to illumination objective lens. 
 
 ∙ Amplitude mask (ellipse, annular, Gaussian, rectangular )
 
