@@ -24,23 +24,41 @@ SPPIM can be used with MATLAB or standalone. The standalone application toolbox 
 # Requirements 
 # Gallary
 # Features of SPPIM
+
 ● Stoandalone graphical user interface to generating SLM pattern for structured beam.
+
 ● Static Gaussian beam
+
 ● 1D Airy beam
+
 ● 2D Airy beam
+
 ● Bessel beam
+
 ● Damman gating 
+
 ● Optimal grating
+
 ● Incoherent Gaussian beams
+
 ● Incoherent Bessel beams
+
 ● Incoherent Airy beams
+
 ● Square lattice beam
+
 ● Hexagonal lattice beam
+
 * Generating SLM pattern for lattice beam is depended to the position of the SLM in the optical setup than to illumination objective lens. 
+
 ● Amplitude mask (ellipse, annular, Gaussian, rectangular )
+
 ● Tiling method for all type of the beams.
+
 ● Far field intensity prediction as a feedback.
+
 ● Gray value SLM pattern
+
 ● Binary value SLM Pattern
 
 
