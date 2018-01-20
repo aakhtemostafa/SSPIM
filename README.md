@@ -19,11 +19,11 @@ The SSPIM toolbox has capabilities to generate different type of SLM patterns fo
 
 ∙ Bessel beam
 
-∙ Incoherent Gaussian beams
+∙ Incoherent Gaussian array beams
 
-∙ Incoherent Bessel beams
+∙ Incoherent Bessel array beams
 
-∙ Incoherent Airy beams
+∙ Incoherent Airy array beams
 
 ∙ Square lattice beam
 
