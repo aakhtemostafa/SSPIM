@@ -46,8 +46,6 @@ The SSPIM toolbox has capabilities to generate different type of SLM patterns fo
 
 ∙ Binary value SLM Pattern
 
-∙ SSPIM is able work standalone or with Matlab environment.
-
 
 
 
