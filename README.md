@@ -70,7 +70,5 @@ SPPIM can be used with MATLAB or standalone. The standalone application toolbox 
 # 5. Requirements 
 # 6. Gallary
 
-[![Alt text]()](https://www.youtube.com/watch?v=5sXzMvU6_Ow&list=RD5sXzMvU6_Ow)
-
 
 
