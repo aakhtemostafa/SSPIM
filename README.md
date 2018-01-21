@@ -63,10 +63,13 @@ SPPIM can be used with MATLAB or standalone. The standalone application toolbox 
 
 # 4. Installation and Requirements
 
-The Mac version of the SSPIM toolbox is implemented in Matlab 2015b and the standalone version of the SPPIM requires the Matlab Runtime 2015b (9.0).
+Mac version of the SSPIM toolbox is implemented in Matlab 2015b and the standalone version of the SPPIM requires the Matlab Runtime 2015b (9.0).
+
 ∙ Matlab Runtime 9.0 is available in this link. 
 
-The Windows version of the SSPIM toolbox is implemented in Matlab 2015a and the standalone version of the SPPIM requires the Matlab Runtime 2015a (8.5).
+Windows version of the SSPIM toolbox is implemented in Matlab 2015a and the standalone version of the SPPIM requires the Matlab Runtime 2015a (8.5).
+
 ∙ Matlab Runtime 8.5 is available in this link.
 
 
+# 5. Gallary
