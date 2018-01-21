@@ -69,7 +69,7 @@ Mac version of the SSPIM toolbox is implemented in Matlab 2015b and the standalo
 
 Windows version of the SSPIM toolbox is implemented in Matlab 2015a and the standalone version of the SPPIM requires the Matlab Runtime 2015a (8.5).
 
-∙ Matlab Runtime 8.5 is available in this [link](https://de.mathworks.com/products/compiler/matlab-runtime.html).
+∙ Matlab Runtime 8.5 is available in this [link](https://de.mathworks.com/products/compiler/matlab-runtime.html). ([32bit](http://ssd.mathworks.com/supportfiles/downloads/R2015a/deployment_files/R2015a/installers/win32/MCR_R2015a_win32_installer.exe)/[64bit](http://ssd.mathworks.com/supportfiles/downloads/R2015a/deployment_files/R2015a/installers/win64/MCR_R2015a_win64_installer.exe))
 
 
 # 5. Gallary
