@@ -47,26 +47,26 @@ The SSPIM toolbox has capabilities to generate different type of SLM patterns fo
 ∙ Binary value SLM Pattern
 
 
-
-
-
 # 3. Download
 SPPIM can be used with MATLAB or standalone. The standalone application toolbox is available for Windows and Mac.
 
 📎 [Source codes for Windows <img src="Image/2Windows_logo.png" width="25">](https://www.google.com) 
 
-📎 [Stand alone toolbox for Windows <img src="Image/2Windows_logo.png" width="25">](https://www.google.com) 
+📎 [Standalone toolbox for Windows <img src="Image/2Windows_logo.png" width="25">](https://www.google.com) 
 
 📎 [Source codes for Mac <img src="Image/1mac.png" width="25">](https://www.google.com) 
 
-📎 [Stand alone toolbox for Mac <img src="Image/1mac.png" width="25">](https://www.google.com) 
+📎 [Standalone toolbox for Mac <img src="Image/1mac.png" width="25">](https://www.google.com) 
 
 📎 [Usermanual <img src="Image/3User_Manual_icon.png" width="25">](https://github.com/aakhtemostafa/SSPIM/raw/master/usermanual/SSPIM_User_manual.pdf)  
 
 
-# 4. Installation
-# 5. Requirements 
-# 6. Gallary
+# 4. Installation and Requirements
 
+The Mac version of the SSPIM toolbox is implemented in Matlab 2015b and the standalone version of the SPPIM requires the Matlab Runtime 2015b (9.0).
+∙ Version 9.0 of Matlab Runtime is available in this link. 
+
+The Windows version of the SSPIM toolbox is implemented in Matlab 2015a and the standalone version of the SPPIM requires the Matlab Runtime 2015a (8.5).
+∙ Matlab Runtime 8.5 is available in this link.
 
 
