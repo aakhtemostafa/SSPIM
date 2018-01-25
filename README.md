@@ -72,3 +72,4 @@ SPPIM can be used with MATLAB or standalone. The standalone application toolbox 
 ∙ Matlab Runtime 9.0 is available in this [link](https://www.dropbox.com/s/3xd0f6znkkia0od/Matlab%20Runtime%209.zip?dl=0). 
 
 # 5. Gallary
+For more information about the SSPIM and its capabilities check out [SSPIM's youtube channel](https://www.youtube.com/watch?v=OztNJ4ONZcE&index=1&list=PLUIDE165ZZo_sa0NZZXWIZzZmF4R44szr).
