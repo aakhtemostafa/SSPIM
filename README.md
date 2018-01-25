@@ -61,7 +61,7 @@ SPPIM can be used with MATLAB or standalone. The standalone application toolbox 
 📎 [Usermanual <img src="Image/3User_Manual_icon.png" width="25">](https://github.com/aakhtemostafa/SSPIM/raw/master/usermanual/SSPIM_User_manual.pdf) (see Installation and Requirements ☟)
 
 
-# 4. Installation and Requirements
+# 4. Installation and Requirements for standalone version
 
 <img src="Image/2Windows_logo.png" width="25"> Windows version of the SSPIM toolbox is implemented in Matlab 2015a and the standalone version of the SPPIM requires the Matlab Runtime 2015a (8.5).
 
@@ -71,5 +71,8 @@ SPPIM can be used with MATLAB or standalone. The standalone application toolbox 
 
 ∙ Matlab Runtime 9.0 is available in this [link](https://www.dropbox.com/s/3xd0f6znkkia0od/Matlab%20Runtime%209.zip?dl=0). After click on the link, you will be redirected to the dropbox, then in dropbox page, click on the Download bottun. After download, unzip the file and then launch "install" file. The Matlab Runtime 9.0 will be installed in this directory "/Applications/MATLAB/MATLAB_Runtime". 
 
-# 5. Tutorial videos
+# 6. Using SSPIM with Matlab
+If you want to work with SSPIM's sources code, First download the source codes for your operating syste: Mac or Windows (see Download section ☝︎). Unzip the downloaded folder and copy the unzipped folder directory into the current directory in Matlab environment. In order to using the SSPIM, open the m file that entitled "SSPIM_toolbox.m". Then run and enjoy it.    
+
+# 7. Tutorial videos
 For more information about the SSPIM and its capabilities check out [SSPIM's youtube channel](https://www.youtube.com/watch?v=OztNJ4ONZcE&index=1&list=PLUIDE165ZZo_sa0NZZXWIZzZmF4R44szr).
