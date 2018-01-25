@@ -48,7 +48,7 @@ The SSPIM toolbox has capabilities to generate different type of SLM patterns fo
 
 
 # 3. Download
-SPPIM can be used with MATLAB or standalone. The standalone application toolbox is available for Windows and Mac.
+The standalone version of the SSPIM toolbox is available for Windows and Mac.
 
 📎 [Source codes for Windows <img src="Image/2Windows_logo.png" width="25">](https://github.com/aakhtemostafa/SSPIM/raw/master/SSPIM_toolbox/Windows/Source_codes_Windows.zip) (see Installation and Requirements ☟)
 
