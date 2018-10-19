@@ -69,10 +69,10 @@ The standalone version of the SSPIM toolbox is available for Windows and Mac.
 
 <img src="Image/1mac.png" width="25"> Mac version of the SSPIM toolbox is implemented in Matlab 2015b and the standalone version of the SPPIM requires the Matlab Runtime 2015b (9.0).
 
-∙ Matlab Runtime 9.0 is available in this [link](https://www.dropbox.com/s/3xd0f6znkkia0od/Matlab%20Runtime%209.zip?dl=0). After click on the link, you will be redirected to the dropbox, then in dropbox page, click on the Download bottun. After download, unzip the file and then launch "install" file. The Matlab Runtime 9.0 will be installed in this directory "/Applications/MATLAB/MATLAB_Runtime". 
+∙ Matlab Runtime 9.0 is available in this [link](https://www.dropbox.com/s/3xd0f6znkkia0od/Matlab%20Runtime%209.zip?dl=0). After click on the link, you will be redirected to the dropbox, then in dropbox page, click on the Download button. After download, unzip the file and then launch "install" file. The Matlab Runtime 9.0 will be installed in this directory "/Applications/MATLAB/MATLAB_Runtime". 
 
 # 6. Using SSPIM with Matlab
-If you want to work with SSPIM's sources code, First download the correct version of source codes for your operating system: Mac or Windows (see Download section ☝︎). Then, unzip the downloaded folder and copy the directory of unzipped folder into the current directory in Matlab environment. In order to using the SSPIM, open the m file that entitled "SSPIM_toolbox.m". Then run and enjoy it.    
+If you want to work with SSPIM's source code, first download the correct version of source codes for your operating system: Mac or Windows (see Download section ☝︎). Then unzip the downloaded folder and copy the directory of unzipped folder into the current directory in Matlab environment. In order to using the SSPIM, open the m file that entitled "SSPIM_toolbox.m". Then run and enjoy it.    
 
 # 7. Tutorial videos
 For more information about the SSPIM and its capabilities check out [SSPIM's youtube channel](https://www.youtube.com/watch?v=OztNJ4ONZcE&index=1&list=PLUIDE165ZZo_sa0NZZXWIZzZmF4R44szr).
