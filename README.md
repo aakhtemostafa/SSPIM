@@ -3,13 +3,13 @@ Here, we present Structured SPIM (SSPIM), which provides an open-source, user-fr
 
 # 1. Graphical user interface
 
-SSPIM represents a toolbox to produce static, spherical Gaussian, Bessel and Airy beams by simple control of a Spatial Light Modulator (SLM). In addition, it is able to produce patterns for incoherent and coherent (lattice beam) array beam formation and tiling for all types of beams supported.SSPIM is designed with a graphical user interface (GUI) of MATLAB and is also able to work standalone. Output patterns of the SSPIM can be used with any type of SLM, such as gray scale or binary SLMs.
+SSPIM represents a toolbox to produce static, spherical Gaussian, Bessel, and Airy beams by simple control of a Spatial Light Modulator (SLM). In addition, it is able to produce patterns for incoherent and coherent (lattice beam) array beam formation and tiling for all types of beams supported.SSPIM is designed with a graphical user interface (GUI) of MATLAB and is also able to work stand-alone. Output patterns of the SSPIM can be used with any type of SLM, such as grayscale or binary SLMs.
 <img src="Image/SSPIM1.png" width="8060">
 
 
-# 2. Capabilitis of SPPIM
+# 2. Capabilities of SPPIM
 
-The SSPIM toolbox has capabilities to generate different type of SLM patterns for a wide range optical beams using differnt methods.
+The SSPIM toolbox has the capability to generate different types of SLM patterns for a wide range of optical beams using different methods.
 
 ∙ Static Gaussian beam 
 
@@ -29,9 +29,9 @@ The SSPIM toolbox has capabilities to generate different type of SLM patterns fo
 
 ∙ Hexagonal lattice beam
 
-∙ Tiling method for all type of the beams.
+∙ Tiling method for all types of beams.
 
-*SLM pattern generating for lattice beam is depended to the position of the SLM in the optical setup than to illumination objective lens.
+*SLM pattern generating for lattice beam is dependent to the position of the SLM in the optical setup than to the illumination objective lens.
 
 ---
 ∙ Damman gating 
@@ -40,7 +40,7 @@ The SSPIM toolbox has capabilities to generate different type of SLM patterns fo
 
 ∙ Amplitude mask (ellipse, annular, Gaussian, rectangular )
 
-∙ Far field intensity prediction as a feedback.
+∙ Far field intensity prediction as feedback.
 
 ∙ Gray value SLM pattern
 
@@ -61,15 +61,15 @@ The standalone version of the SSPIM toolbox is available for Windows and Mac.
 📎 [Usermanual <img src="Image/3User_Manual_icon.png" width="25">](https://github.com/aakhtemostafa/SSPIM/raw/master/usermanual/SSPIM_User_manual.pdf) (see Installation and Requirements ☟)
 
 
-# 4. Installation and Requirements for standalone version
+# 4. Installation and Requirements for the standalone version
 
 <img src="Image/2Windows_logo.png" width="25"> Windows version of the SSPIM toolbox is implemented in Matlab 2015a and the standalone version of the SPPIM requires the Matlab Runtime 2015a (8.5).
 
-∙ Matlab Runtime 8.5 is available in this [link](https://de.mathworks.com/products/compiler/matlab-runtime.html). ([32bit](http://ssd.mathworks.com/supportfiles/downloads/R2015a/deployment_files/R2015a/installers/win32/MCR_R2015a_win32_installer.exe)/[64bit](http://ssd.mathworks.com/supportfiles/downloads/R2015a/deployment_files/R2015a/installers/win64/MCR_R2015a_win64_installer.exe))
+∙ Matlab Runtime 8.5 is available at this [link](https://de.mathworks.com/products/compiler/matlab-runtime.html). ([32bit](http://ssd.mathworks.com/supportfiles/downloads/R2015a/deployment_files/R2015a/installers/win32/MCR_R2015a_win32_installer.exe)/[64bit](http://ssd.mathworks.com/supportfiles/downloads/R2015a/deployment_files/R2015a/installers/win64/MCR_R2015a_win64_installer.exe))
 
 <img src="Image/1mac.png" width="25"> Mac version of the SSPIM toolbox is implemented in Matlab 2015b and the standalone version of the SPPIM requires the Matlab Runtime 2015b (9.0).
 
-∙ Matlab Runtime 9.0 is available in this [link](https://www.dropbox.com/s/3xd0f6znkkia0od/Matlab%20Runtime%209.zip?dl=0). After click on the link, you will be redirected to the dropbox, then in dropbox page, click on the Download bottun. After download, unzip the file and then launch "install" file. The Matlab Runtime 9.0 will be installed in this directory "/Applications/MATLAB/MATLAB_Runtime". 
+∙ Matlab Runtime 9.0 is available in this [link](https://www.dropbox.com/s/3xd0f6znkkia0od/Matlab%20Runtime%209.zip?dl=0). After click on the link, you will be redirected to the dropbox, then in the dropbox page, click on the Download button. After download, unzip the file and then launch "install" file. The Matlab Runtime 9.0 will be installed in this directory "/Applications/MATLAB/MATLAB_Runtime". 
 
 # 6. Using SSPIM with Matlab
 If you want to work with SSPIM's sources code, First download the correct version of source codes for your operating system: Mac or Windows (see Download section ☝︎). Then, unzip the downloaded folder and copy the directory of unzipped folder into the current directory in Matlab environment. In order to using the SSPIM, open the m file that entitled "SSPIM_toolbox.m". Then run and enjoy it.    
